@@ -3,7 +3,7 @@
 
 def parrot(noise = "Squawk!")
   puts "Pretty Bird!"
-  puts #{niose}
+  puts "#{niose}"
   return noise
 end
 
