@@ -5,3 +5,5 @@ def parrot
   put "Squawk!"
   return "Squawk!"
 end
+
+parrot
